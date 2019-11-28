@@ -1,4 +1,4 @@
-# Script Name   : Folder_File_Sizer.py
+# Script Name   : file_sizer.py
 # Author        : Serdar Ilarslan
 # Created       : 28th November 2019
 # Last Modified	: 28th November 2019
